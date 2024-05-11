@@ -12,3 +12,4 @@ SSE - some simplest example (with static graphic)
 | pixel | 3717 | 3.0 |    |
 | shiny | 3623 | 0 | it is not possible to dynamically change the window title |
 | gio | 9965 | 0 | Not trivial API, absent key "Insert" in keyboard API |
+| goey | 2855 | 0 |   |
