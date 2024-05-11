@@ -1,6 +1,6 @@
 # Yet Another Awesome Go Gui
 
-**only packages with out html, webkit, js, etc**
+**only packages without html, webkit, js, etc**
 
 SSE - some simplest example (with static graphic)
 
