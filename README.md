@@ -4,7 +4,7 @@
 
 | Package | SSE Size, kb | ~SSE Cpu usage, % | Comment |
 |---------|--------------|--------------------|---------|
-| Fyne | 26595 | 0.75 | go.sum too big: 666 lines |
+| Fyne | 26595 | 0.75 | go.sum too big: 666 lines, bad API for keyboard events (try to create a program with response on Shift+Ins) |
 | giu | 14122 | 0.3 |    |
 | ebiten | 10210 | 3.2 |    |
 | pixel | 3717 | 3.0 |    |
